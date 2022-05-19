@@ -1,0 +1,5 @@
+E:\WORK\nanjinginfo\Code\MapTestApp\Release\MapAPI.dll
+E:\WORK\nanjinginfo\Code\MapTestApp\Release\MapAPI.pdb
+E:\WORK\nanjinginfo\Code\MapTestApp\MapAPI\obj\Debug\ResolveAssemblyReference.cache
+E:\WORK\nanjinginfo\Code\MapTestApp\MapAPI\obj\Debug\MapAPI.dll
+E:\WORK\nanjinginfo\Code\MapTestApp\MapAPI\obj\Debug\MapAPI.pdb
